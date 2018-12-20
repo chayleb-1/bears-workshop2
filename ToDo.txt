@@ -1,3 +1,5 @@
 test
 
 new line  - new text
+
+third line - for 3rd commit
